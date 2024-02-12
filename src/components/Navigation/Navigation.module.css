@@ -1,0 +1,18 @@
+
+/* Navigation sections style  */
+nav{
+    display: flex;
+    justify-content: space-between;
+    height: 72px;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 20px;
+    font-weight: 600;
+    font-size: 16px;
+    text-transform: uppercase;
+    cursor: pointer;
+    
+}

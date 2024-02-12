@@ -1,0 +1,55 @@
+.contact_section{
+   
+}
+
+.contact_body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.contact_from{
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.top_btns{
+    display: flex;
+    gap: 38px;
+    justify-content: space-between;
+}
+
+
+/* form section starts here  */
+
+.input_controler{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.input_controler input{
+    padding: 5px 10px;
+    height: 40px;
+    font-size: 20px;
+
+}
+.input_controler textarea{
+    padding: 10px;
+    font-size: 20px;
+}
+.input_controler label{
+    font-size: 14px;
+    position: absolute;
+    top: -10px;
+    left: 15px;
+    background-color: white;
+    padding:0 10px;
+    font-weight: 600;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+}

@@ -1,0 +1,17 @@
+
+.contact_section{
+    padding: 80px 0 0 80px;
+}
+
+.contact_section h2{
+    font-size: 48px;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.contact_section p{
+    font-size: 16px;
+    font-weight: 600;
+    max-width: 975px;
+    color:#5A5959;
+}
